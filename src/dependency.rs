@@ -12,7 +12,7 @@ const ANSI_RESET: &str = "\x1b[0m";
 
 /// Well-known CUTLASS repository configuration
 const CUTLASS_REPO: &str = "https://github.com/NVIDIA/cutlass.git";
-const CUTLASS_DEFAULT_COMMIT: &str = "7127592069c2fe01b041e174ba4345ef9b279671";
+const CUTLASS_DEFAULT_COMMIT: &str = "ffa119a1255d78998536107466cc7097ecefa393";
 const CUTLASS_INCLUDE_PATHS: &[&str] = &["include", "tools/util/include"];
 
 /// External dependency configuration
